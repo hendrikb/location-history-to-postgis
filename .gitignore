@@ -1,0 +1,4 @@
+Records.json
+*.sql*
+pgdata/
+*.qgz

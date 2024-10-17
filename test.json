@@ -1,0 +1,76 @@
+{
+  "locations": [
+    {
+      "latitudeE7": 545386920,
+      "longitudeE7": 113565030,
+      "accuracy": 75,
+      "source": "wifi",
+      "timestamp": "2010-12-26T11:55:08.758Z"
+    },
+    {
+      "latitudeE7": 501236931,
+      "longitudeE7": 142361234,
+      "source": "wifi",
+      "timestamp": "2020-03-12T12:39:58.789Z"
+    },
+    {
+      "devicetag": "-123",
+      "timestamp": "2022-07-14T14:02:46.817Z"
+    },
+    {
+      "source": "-123",
+      "timestamp": "2022-07-14T14:41:09.315Z"
+    },
+    {
+      "latitudeE7": 529836131,
+      "longitudeE7": 142231234,
+      "accuracy": 75,
+      "source": "wifi",
+      "timestamp": "2024-01-02T01:20:10.100Z"
+    },
+    {
+      "latitudeE7": 591827334,
+      "longitudeE7": 198726734,
+      "velocity": 10,
+      "accuracy": 75,
+      "activity": [{
+        "activity": [{
+          "type": "ON_FOOT",
+          "confidence": 94
+        }, {
+          "type": "WALKING",
+          "confidence": 94
+        }, {
+          "type": "IN_VEHICLE",
+          "confidence": 2
+        }, {
+          "type": "IN_RAIL_VEHICLE",
+          "confidence": 2
+        }, {
+          "type": "ON_BICYCLE",
+          "confidence": 1
+        }, {
+          "type": "UNKNOWN",
+          "confidence": 1
+        }, {
+          "type": "RUNNING",
+          "confidence": 1
+        }, {
+          "type": "IN_ROAD_VEHICLE",
+          "confidence": 1
+        }],
+      "timestamp": "2024-05-31T19:40:21.498Z"
+      }],
+      "source": "wifi",
+      "timestamp": "2024-01-03T10:18:20.023Z"
+    },
+    {
+      "latitudeE7": 519384331,
+      "longitudeE7": 131792834,
+      "accuracy": 75,
+      "altitude": 100,
+      "source": "wifi",
+      "timestamp": "2024-05-31T14:23:18.333Z"
+    }
+  ]
+}
